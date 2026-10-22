@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33848902/README.md)
+
 # Hi, I'm Ikirezi Lilian
 
 Product-minded builder with a customer experience and computer engineering background.
